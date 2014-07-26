@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="strike-subsystem">
+</Property><Property Name="Solution File" Value="D:\strike\strike-subsystem.sln">
+</Property><Property Name="User Options File" Value="D:\strike\strike-subsystem.suo">
+</Property><Property Name="Date" Value="星期一 2011年11月7日">
+</Property><Property Name="Time" Value="8:44">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="strike-subsystem.sln" Description="File successfully backed up as D:\strike\Backup\strike-subsystem.sln">
+</Event><Event ErrorLevel="0" Project="" Source="strike-subsystem.suo" Description="File successfully backed up as D:\strike\Backup\strike-subsystem.suo">
+</Event><Event ErrorLevel="0" Project="strike-subsystem" Source="strike-subsystem\strike-subsystem.csproj" Description="Project file successfully backed up as D:\strike\Backup\strike-subsystem\strike-subsystem.csproj">
+</Event><Event ErrorLevel="0" Project="strike-subsystem" Source="strike-subsystem\strike-subsystem.csproj.user" Description="Project user file successfully backed up as D:\strike\Backup\strike-subsystem\strike-subsystem.csproj.user">
+</Event><Event ErrorLevel="0" Project="strike-subsystem" Source="strike-subsystem\exam.cs" Description="File successfully backed up as D:\strike\Backup\strike-subsystem\exam.cs">
+</Event><Event ErrorLevel="0" Project="strike-subsystem" Source="strike-subsystem\exam.Designer.cs" Description="File successfully backed up as D:\strike\Backup\strike-subsystem\exam.Designer.cs">
+</Event><Event ErrorLevel="0" Project="strike-subsystem" Source="strike-subsystem\analysis.cs" Description="File successfully backed up as D:\strike\Backup\strike-subsystem\analysis.cs">
+</Event><Event ErrorLevel="0" Project="strike-subsystem" Source="strike-subsystem\analysis.designer.cs" Description="File successfully backed up as D:\strike\Backup\strike-subsystem\analysis.designer.cs">
+</Event><Event ErrorLevel="0" Project="strike-subsystem" Source="strike-subsystem\Main_Fram.cs" Description="File successfully backed up as D:\strike\Backup\strike-subsystem\Main_Fram.cs">
+</Event><Event ErrorLevel="0" Project="strike-subsystem" Source="strike-subsystem\Main_Fram.designer.cs" Description="File successfully backed up as D:\strike\Backup\strike-subsystem\Main_Fram.designer.cs">
+</Event><Event ErrorLevel="0" Project="strike-subsystem" Source="strike-subsystem\Manage_p.cs" Description="File successfully backed up as D:\strike\Backup\strike-subsystem\Manage_p.cs">
+</Event><Event ErrorLevel="0" Project="strike-subsystem" Source="strike-subsystem\Manage_p.designer.cs" Description="File successfully backed up as D:\strike\Backup\strike-subsystem\Manage_p.designer.cs">
+</Event><Event ErrorLevel="0" Project="strike-subsystem" Source="strike-subsystem\New_p.cs" Description="File successfully backed up as D:\strike\Backup\strike-subsystem\New_p.cs">
+</Event><Event ErrorLevel="0" Project="strike-subsystem" Source="strike-subsystem\New_p.designer.cs" Description="File successfully backed up as D:\strike\Backup\strike-subsystem\New_p.designer.cs">
+</Event><Event ErrorLevel="0" Project="strike-subsystem" Source="strike-subsystem\Program.cs" Description="File successfully backed up as D:\strike\Backup\strike-subsystem\Program.cs">
+</Event><Event ErrorLevel="0" Project="strike-subsystem" Source="strike-subsystem\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\strike\Backup\strike-subsystem\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="strike-subsystem" Source="strike-subsystem\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\strike\Backup\strike-subsystem\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="strike-subsystem" Source="strike-subsystem\Properties\Settings.Designer.cs" Description="File successfully backed up as D:\strike\Backup\strike-subsystem\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="strike-subsystem" Source="strike-subsystem\Settings.cs" Description="File successfully backed up as D:\strike\Backup\strike-subsystem\Settings.cs">
+</Event><Event ErrorLevel="0" Project="strike-subsystem" Source="strike-subsystem\UserInfoDataSet.Designer.cs" Description="File successfully backed up as D:\strike\Backup\strike-subsystem\UserInfoDataSet.Designer.cs">
+</Event><Event ErrorLevel="0" Project="strike-subsystem" Source="strike-subsystem\Welcome.cs" Description="File successfully backed up as D:\strike\Backup\strike-subsystem\Welcome.cs">
+</Event><Event ErrorLevel="0" Project="strike-subsystem" Source="strike-subsystem\Welcome.designer.cs" Description="File successfully backed up as D:\strike\Backup\strike-subsystem\Welcome.designer.cs">
+</Event><Event ErrorLevel="0" Project="strike-subsystem" Source="strike-subsystem\app.config" Description="File successfully backed up as D:\strike\Backup\strike-subsystem\app.config">
+</Event><Event ErrorLevel="0" Project="strike-subsystem" Source="strike-subsystem\bin\Debug\strike-subsystem.exe.config" Description="File successfully backed up as D:\strike\Backup\strike-subsystem\bin\Debug\strike-subsystem.exe.config">
+</Event><Event ErrorLevel="0" Project="strike-subsystem" Source="strike-subsystem\bin\Release\strike-subsystem.exe.config" Description="File successfully backed up as D:\strike\Backup\strike-subsystem\bin\Release\strike-subsystem.exe.config">
+</Event><Event ErrorLevel="0" Project="strike-subsystem" Source="strike-subsystem\obj\Debug\ResolveAssemblyReference.cache" Description="File successfully backed up as D:\strike\Backup\strike-subsystem\obj\Debug\ResolveAssemblyReference.cache">
+</Event><Event ErrorLevel="0" Project="strike-subsystem" Source="strike-subsystem\obj\Debug\strike-subsystem.csproj.GenerateResource.Cache" Description="File successfully backed up as D:\strike\Backup\strike-subsystem\obj\Debug\strike-subsystem.csproj.GenerateResource.Cache">
+</Event><Event ErrorLevel="0" Project="strike-subsystem" Source="strike-subsystem\Properties\Settings.settings" Description="File successfully backed up as D:\strike\Backup\strike-subsystem\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="strike-subsystem" Source="strike-subsystem\UserInfoDataSet.xsc" Description="File successfully backed up as D:\strike\Backup\strike-subsystem\UserInfoDataSet.xsc">
+</Event><Event ErrorLevel="0" Project="strike-subsystem" Source="strike-subsystem\UserInfoDataSet.xsd" Description="File successfully backed up as D:\strike\Backup\strike-subsystem\UserInfoDataSet.xsd">
+</Event><Event ErrorLevel="0" Project="strike-subsystem" Source="strike-subsystem\UserInfoDataSet.xss" Description="File successfully backed up as D:\strike\Backup\strike-subsystem\UserInfoDataSet.xss">
+</Event><Event ErrorLevel="0" Project="strike-subsystem" Source="strike-subsystem\bin\Debug\images\Adjust.jpg" Description="File successfully backed up as D:\strike\Backup\strike-subsystem\bin\Debug\images\Adjust.jpg">
+</Event><Event ErrorLevel="0" Project="strike-subsystem" Source="strike-subsystem\bin\Debug\images\Analysis.jpg" Description="File successfully backed up as D:\strike\Backup\strike-subsystem\bin\Debug\images\Analysis.jpg">
+</Event><Event ErrorLevel="0" Project="strike-subsystem" Source="strike-subsystem\bin\Debug\images\Analysis.png" Description="File successfully backed up as D:\strike\Backup\strike-subsystem\bin\Debug\images\Analysis.png">
+</Event><Event ErrorLevel="0" Project="strike-subsystem" Source="strike-subsystem\bin\Debug\images\DigitNum\0.JPG" Description="File successfully backed up as D:\strike\Backup\strike-subsystem\bin\Debug\images\DigitNum\0.JPG">
+</Event><Event ErrorLevel="0" Project="strike-subsystem" Source="strike-subsystem\bin\Debug\images\DigitNum\1.JPG" Description="File successfully backed up as D:\strike\Backup\strike-subsystem\bin\Debug\images\DigitNum\1.JPG">
+</Event><Event ErrorLevel="0" Project="strike-subsystem" Source="strike-subsystem\bin\Debug\images\DigitNum\2.JPG" Description="File successfully backed up as D:\strike\Backup\strike-subsystem\bin\Debug\images\DigitNum\2.JPG">
+</Event><Event ErrorLevel="0" Project="strike-subsystem" Source="strike-subsystem\bin\Debug\images\DigitNum\3.JPG" Description="File successfully backed up as D:\strike\Backup\strike-subsystem\bin\Debug\images\DigitNum\3.JPG">
+</Event><Event ErrorLevel="0" Project="strike-subsystem" Source="strike-subsystem\bin\Debug\images\DigitNum\4.JPG" Description="File successfully backed up as D:\strike\Backup\strike-subsystem\bin\Debug\images\DigitNum\4.JPG">
+</Event><Event ErrorLevel="0" Project="strike-subsystem" Source="strike-subsystem\bin\Debug\images\DigitNum\5.JPG" Description="File successfully backed up as D:\strike\Backup\strike-subsystem\bin\Debug\images\DigitNum\5.JPG">
+</Event><Event ErrorLevel="0" Project="strike-subsystem" Source="strike-subsystem\bin\Debug\images\DigitNum\6.JPG" Description="File successfully backed up as D:\strike\Backup\strike-subsystem\bin\Debug\images\DigitNum\6.JPG">
+</Event><Event ErrorLevel="0" Project="strike-subsystem" Source="strike-subsystem\bin\Debug\images\DigitNum\7.JPG" Description="File successfully backed up as D:\strike\Backup\strike-subsystem\bin\Debug\images\DigitNum\7.JPG">
+</Event><Event ErrorLevel="0" Project="strike-subsystem" Source="strike-subsystem\bin\Debug\images\DigitNum\8.JPG" Description="File successfully backed up as D:\strike\Backup\strike-subsystem\bin\Debug\images\DigitNum\8.JPG">
+</Event><Event ErrorLevel="0" Project="strike-subsystem" Source="strike-subsystem\bin\Debug\images\DigitNum\9.JPG" Description="File successfully backed up as D:\strike\Backup\strike-subsystem\bin\Debug\images\DigitNum\9.JPG">
+</Event><Event ErrorLevel="0" Project="strike-subsystem" Source="strike-subsystem\bin\Debug\images\DigitNum\91.JPG" Description="File successfully backed up as D:\strike\Backup\strike-subsystem\bin\Debug\images\DigitNum\91.JPG">
+</Event><Event ErrorLevel="0" Project="strike-subsystem" Source="strike-subsystem\bin\Debug\images\Exam.jpg" Description="File successfully backed up as D:\strike\Backup\strike-subsystem\bin\Debug\images\Exam.jpg">
+</Event><Event ErrorLevel="0" Project="strike-subsystem" Source="strike-subsystem\bin\Debug\images\Exam.png" Description="File successfully backed up as D:\strike\Backup\strike-subsystem\bin\Debug\images\Exam.png">
+</Event><Event ErrorLevel="0" Project="strike-subsystem" Source="strike-subsystem\bin\Debug\images\Exam_Detail.jpg" Description="File successfully backed up as D:\strike\Backup\strike-subsystem\bin\Debug\images\Exam_Detail.jpg">
+</Event><Event ErrorLevel="0" Project="strike-subsystem" Source="strike-subsystem\bin\Debug\images\Manage_P.jpg" Description="File successfully backed up as D:\strike\Backup\strike-subsystem\bin\Debug\images\Manage_P.jpg">
+</Event><Event ErrorLevel="0" Project="strike-subsystem" Source="strike-subsystem\bin\Debug\images\Manage_p.png" Description="File successfully backed up as D:\strike\Backup\strike-subsystem\bin\Debug\images\Manage_p.png">
+</Event><Event ErrorLevel="0" Project="strike-subsystem" Source="strike-subsystem\bin\Debug\images\New_P.jpg" Description="File successfully backed up as D:\strike\Backup\strike-subsystem\bin\Debug\images\New_P.jpg">
+</Event><Event ErrorLevel="0" Project="strike-subsystem" Source="strike-subsystem\bin\Debug\images\New_p.png" Description="File successfully backed up as D:\strike\Backup\strike-subsystem\bin\Debug\images\New_p.png">
+</Event><Event ErrorLevel="0" Project="strike-subsystem" Source="strike-subsystem\bin\Debug\images\Print.jpg" Description="File successfully backed up as D:\strike\Backup\strike-subsystem\bin\Debug\images\Print.jpg">
+</Event><Event ErrorLevel="0" Project="strike-subsystem" Source="strike-subsystem\bin\Debug\images\Welcome.jpg" Description="File successfully backed up as D:\strike\Backup\strike-subsystem\bin\Debug\images\Welcome.jpg">
+</Event><Event ErrorLevel="0" Project="strike-subsystem" Source="strike-subsystem\bin\Debug\strike-subsystem.exe" Description="File successfully backed up as D:\strike\Backup\strike-subsystem\bin\Debug\strike-subsystem.exe">
+</Event><Event ErrorLevel="0" Project="strike-subsystem" Source="strike-subsystem\bin\Debug\strike-subsystem.pdb" Description="File successfully backed up as D:\strike\Backup\strike-subsystem\bin\Debug\strike-subsystem.pdb">
+</Event><Event ErrorLevel="0" Project="strike-subsystem" Source="strike-subsystem\bin\Release\strike-subsystem.exe" Description="File successfully backed up as D:\strike\Backup\strike-subsystem\bin\Release\strike-subsystem.exe">
+</Event><Event ErrorLevel="0" Project="strike-subsystem" Source="strike-subsystem\bin\Release\strike-subsystem.pdb" Description="File successfully backed up as D:\strike\Backup\strike-subsystem\bin\Release\strike-subsystem.pdb">
+</Event><Event ErrorLevel="0" Project="strike-subsystem" Source="strike-subsystem\obj\Debug\strike-subsystem.csproj.FileListAbsolute.txt" Description="File successfully backed up as D:\strike\Backup\strike-subsystem\obj\Debug\strike-subsystem.csproj.FileListAbsolute.txt">
+</Event><Event ErrorLevel="0" Project="strike-subsystem" Source="strike-subsystem\obj\Debug\strike-subsystem.exe" Description="File successfully backed up as D:\strike\Backup\strike-subsystem\obj\Debug\strike-subsystem.exe">
+</Event><Event ErrorLevel="0" Project="strike-subsystem" Source="strike-subsystem\obj\Debug\strike-subsystem.exe.licenses" Description="File successfully backed up as D:\strike\Backup\strike-subsystem\obj\Debug\strike-subsystem.exe.licenses">
+</Event><Event ErrorLevel="0" Project="strike-subsystem" Source="strike-subsystem\obj\Debug\strike-subsystem.pdb" Description="File successfully backed up as D:\strike\Backup\strike-subsystem\obj\Debug\strike-subsystem.pdb">
+</Event><Event ErrorLevel="0" Project="strike-subsystem" Source="strike-subsystem\obj\Debug\TempPE\Properties.Resources.Designer.cs.dll" Description="File successfully backed up as D:\strike\Backup\strike-subsystem\obj\Debug\TempPE\Properties.Resources.Designer.cs.dll">
+</Event><Event ErrorLevel="0" Project="strike-subsystem" Source="strike-subsystem\obj\Debug\TempPE\strikeDataSet.Designer.cs.dll" Description="File successfully backed up as D:\strike\Backup\strike-subsystem\obj\Debug\TempPE\strikeDataSet.Designer.cs.dll">
+</Event><Event ErrorLevel="0" Project="strike-subsystem" Source="strike-subsystem\UserInfo.mdb" Description="File successfully backed up as D:\strike\Backup\strike-subsystem\UserInfo.mdb">
+</Event><Event ErrorLevel="0" Project="strike-subsystem" Source="strike-subsystem\标志在线软件图标生成.ico" Description="File successfully backed up as D:\strike\Backup\strike-subsystem\标志在线软件图标生成.ico">
+</Event><Event ErrorLevel="0" Project="strike-subsystem" Source="strike-subsystem\exam.resx" Description="File successfully backed up as D:\strike\Backup\strike-subsystem\exam.resx">
+</Event><Event ErrorLevel="0" Project="strike-subsystem" Source="strike-subsystem\analysis.resx" Description="File successfully backed up as D:\strike\Backup\strike-subsystem\analysis.resx">
+</Event><Event ErrorLevel="0" Project="strike-subsystem" Source="strike-subsystem\Main_Fram.resx" Description="File successfully backed up as D:\strike\Backup\strike-subsystem\Main_Fram.resx">
+</Event><Event ErrorLevel="0" Project="strike-subsystem" Source="strike-subsystem\Manage_p.resx" Description="File successfully backed up as D:\strike\Backup\strike-subsystem\Manage_p.resx">
+</Event><Event ErrorLevel="0" Project="strike-subsystem" Source="strike-subsystem\New_p.resx" Description="File successfully backed up as D:\strike\Backup\strike-subsystem\New_p.resx">
+</Event><Event ErrorLevel="0" Project="strike-subsystem" Source="strike-subsystem\obj\Debug\strike_subsystem.Properties.Resources.resources" Description="File successfully backed up as D:\strike\Backup\strike-subsystem\obj\Debug\strike_subsystem.Properties.Resources.resources">
+</Event><Event ErrorLevel="0" Project="strike-subsystem" Source="strike-subsystem\Properties\licenses.licx" Description="File successfully backed up as D:\strike\Backup\strike-subsystem\Properties\licenses.licx">
+</Event><Event ErrorLevel="0" Project="strike-subsystem" Source="strike-subsystem\Properties\Resources.resx" Description="File successfully backed up as D:\strike\Backup\strike-subsystem\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="strike-subsystem" Source="strike-subsystem\Welcome.resx" Description="File successfully backed up as D:\strike\Backup\strike-subsystem\Welcome.resx">
+</Event><Event ErrorLevel="0" Project="strike-subsystem" Source="strike-subsystem\strike-subsystem.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="strike-subsystem" Source="strike-subsystem\strike-subsystem.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="strike-subsystem.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="strike-subsystem.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="strike-subsystem" Source="strike-subsystem\strike-subsystem.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,9 @@
+数据库安装在D盘
+.framework3.5
+access2007数据库引擎
+
+opencv_calib3d231d.lib
+opencv_contrib231d.lib
+opencv_core231d.lib
+opencv_features2d231d.lib
+opencv_flann231d.lib
